@@ -12,3 +12,5 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+![Screenshot (14)](https://user-images.githubusercontent.com/90490335/150707179-687d47dc-7a47-4dfc-a2ed-34cc9a419399.png)
+file:///C:/Users/makhija.1/Great-Note-Taking/Develop/public/index.html
